@@ -170,12 +170,6 @@ Two parallel branches:
 
 ## Time Table I
 
-<style>
-td {
-    font-size: 35px
-}
-</style>
-
 | Date | Type | Chapter | Topic | Lecturer |
 | ---- | ---- | ------- |------ | -------- |
 | 15.10. |Lecture | 0-1 | Course intro, intro to SSE, VC basics | Benjamin |
